@@ -2,5 +2,5 @@
 
 function paragraphSelector(){
   //return $('p');
-  document.ready(function($('p'))
+  return document.ready(function($('p'))
 };
